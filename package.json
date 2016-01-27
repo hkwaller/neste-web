@@ -1,0 +1,15 @@
+{
+  "name": "neste-web",
+  "version": "1.0.0",
+  "description": "the web page for the app Neste for iOS/Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/hkwaller/neste-web"
+  },
+  "author": "Hannes Waller",
+  "license": "ISC"
+}
